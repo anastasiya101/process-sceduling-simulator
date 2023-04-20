@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/anastasiya/Documents/Unimelb/Computer Systems/Projects/comp30023-2023-project-1",
+      "program": "/Users/anastasiya/Documents/Unimelb/Computer Systems/Projects/comp30023-2023-project-1/build/Debug/outDebug"
+    }
+  ]
+}
